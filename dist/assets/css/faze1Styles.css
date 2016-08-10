@@ -1,0 +1,214 @@
+/* 
+ *
+ * FONTS 
+ *
+ * * * * * * * * */
+.faze1FontFamilies {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif !important;
+	/* note: please add the following to your index.html
+	 *      <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,800italic,600italic,300italic,300,400italic,700,700italic,800' rel='stylesheet' type='text/css'>
+	 */
+}
+.helveticaFont {
+	font-family: Helvetica !important;
+}
+.whiteFont {
+	color: white !important;
+}
+.blackFont {
+	color: rgba(18, 30, 40, 0.75) !important;
+}
+.upperCase {
+	text-transform: uppercase;
+}
+.extraBold {
+	font-weight: 800 !important;
+}
+.bold {
+	font-weight: 500 !important;
+}
+.italic {
+	font-style: italic !important;
+}
+
+
+
+/* 
+ *
+ * BACKGROUND COLORS
+ *
+ * * * * * * * * */
+ .primaryColorBackground {
+	background-color: rgb(88, 200, 223);
+}
+.primaryColorBackgroundOpacity90 {
+	background-color: rgba(88, 200, 223, 0.9);
+}
+.primaryColorBackgroundOpacity80 {
+	background-color: rgba(88, 200, 223, 0.8);
+}
+.primaryColorBackgroundOpacity70 {
+	background-color: rgba(88, 200, 223, 0.7);
+}
+.primaryColorBackgroundOpacity60 {
+	background-color: rgba(88, 200, 223, 0.6);
+}
+.primaryColorBackgroundOpacity50 {
+	background-color: rgba(88, 200, 223, 0.5);
+}
+.primaryColorBackgroundOpacity40 {
+	background-color: rgba(88, 200, 223, 0.4);
+}
+.primaryColorBackgroundOpacity30 {
+	background-color: rgba(88, 200, 223, 0.3);
+}
+.primaryColorBackgroundOpacity20 {
+	background-color: rgba(88, 200, 223, 0.2);
+}
+.primaryColorBackgroundOpacity10 {
+	background-color: rgba(88, 200, 223, 0.1);
+}
+.tertiaryColorOneBackground {
+	background-color: rgb(192, 80, 77);
+}
+.tertiaryColorOneBackgroundOpacity90 {
+	background-color: rgba(192, 80, 77, 0.9);
+}
+.tertiaryColorOneBackgroundOpacity80 {
+	background-color: rgba(192, 80, 77, 0.8);
+}
+.tertiaryColorOneBackgroundOpacity70 {
+	background-color: rgba(192, 80, 77, 0.7);
+}
+.tertiaryColorOneBackgroundOpacity60 {
+	background-color: rgba(192, 80, 77, 0.6);
+}
+.tertiaryColorOneBackgroundOpacity50 {
+	background-color: rgba(192, 80, 77, 0.5);
+}
+.tertiaryColorOneBackgroundOpacity40 {
+	background-color: rgba(192, 80, 77, 0.4);
+}
+.tertiaryColorOneBackgroundOpacity30 {
+	background-color: rgba(192, 80, 77, 0.3);
+}
+.tertiaryColorOneBackgroundOpacity20 {
+	background-color: rgba(192, 80, 77, 0.2);
+}
+.tertiaryColorOneBackgroundOpacity10 {
+	background-color: rgba(192, 80, 77, 0.1);
+}
+.tertiaryColorTwoBackground {
+	background-color: rgb(215, 108, 39);
+}
+.tertiaryColorTwoBackgroundOpacity90 {
+	background-color: rgba(215, 108, 39, 0.9);
+}
+.tertiaryColorTwoBackgroundOpacity80 {
+	background-color: rgba(215, 108, 39, 0.8);
+}
+.tertiaryColorTwoBackgroundOpacity70 {
+	background-color: rgba(215, 108, 39, 0.7);
+}
+.tertiaryColorTwoBackgroundOpacity60 {
+	background-color: rgba(215, 108, 39, 0.6);
+}
+.tertiaryColorTwoBackgroundOpacity50 {
+	background-color: rgba(215, 108, 39, 0.5);
+}
+.tertiaryColorTwoBackgroundOpacity40 {
+	background-color: rgba(215, 108, 39, 0.4);
+}
+.tertiaryColorTwoBackgroundOpacity30 {
+	background-color: rgba(215, 108, 39, 0.3);
+}
+.tertiaryColorTwoBackgroundOpacity20 {
+	background-color: rgba(215, 108, 39, 0.2);
+}
+.tertiaryColorTwoBackgroundOpacity10 {
+	background-color: rgba(215, 108, 39, 0.1);
+}
+.tertiaryColorThreeBackground {
+	background-color: rgb(108, 195, 145);
+}
+.tertiaryColorThreeBackgroundOpacity90 {
+	background-color: rgba(108, 195, 145, 0.9);
+}
+.tertiaryColorThreeBackgroundOpacity80 {
+	background-color: rgba(108, 195, 145, 0.8);
+}
+.tertiaryColorThreeBackgroundOpacity70 {
+	background-color: rgba(108, 195, 145, 0.7);
+}
+.tertiaryColorThreeBackgroundOpacity60 {
+	background-color: rgba(108, 195, 145, 0.6);
+}
+.tertiaryColorThreeBackgroundOpacity50 {
+	background-color: rgba(108, 195, 145, 0.5);
+}
+.tertiaryColorThreeBackgroundOpacity40 {
+	background-color: rgba(108, 195, 145, 0.4);
+}
+.tertiaryColorThreeBackgroundOpacity30 {
+	background-color: rgba(108, 195, 145, 0.3);
+}
+.tertiaryColorThreeBackgroundOpacity20 {
+	background-color: rgba(108, 195, 145, 0.2);
+}
+.tertiaryColorThreeBackgroundOpacity10 {
+	background-color: rgba(108, 195, 145, 0.1);
+}
+.blackBackground {
+	background-color: rgb(18, 30, 40);
+}
+.blackBackgroundOpacity90 {
+	background-color: rgba(18, 30, 40, 0.9);
+}
+.blackBackgroundOpacity80 {
+	background-color: rgba(18, 30, 40, 0.8);
+}
+.blackBackgroundOpacity70 {
+	background-color: rgba(18, 30, 40, 0.7);
+}
+.blackBackgroundOpacity60 {
+	background-color: rgba(18, 30, 40, 0.6);
+}
+.blackBackgroundOpacity50 {
+	background-color: rgba(18, 30, 40, 0.5);
+}
+.blackBackgroundOpacity40 {
+	background-color: rgba(18, 30, 40, 0.4);
+}
+.blackBackgroundOpacity30 {
+	background-color: rgba(18, 30, 40, 0.3);
+}
+.blackBackgroundOpacity20 {
+	background-color: rgba(18, 30, 40, 0.2);
+}
+.blackBackgroundOpacity10 {
+	background-color: rgba(18, 30, 40, 0.1);
+}
+.whiteBackground {
+	background-color: white;
+}
+
+
+
+/* 
+ *
+ * CENTERING
+ *
+ * * * * * * * * */
+.centerHorizontally {
+	display: flex;
+	justify-content: center;
+}
+.centerVertically {
+	display: flex;
+	align-items: center;
+}
+.centerBoth {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
